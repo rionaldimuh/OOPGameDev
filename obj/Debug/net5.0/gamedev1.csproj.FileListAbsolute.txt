@@ -1,0 +1,16 @@
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.exe
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.deps.json
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.runtimeconfig.json
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.runtimeconfig.dev.json
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.dll
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\ref\gamedev1.dll
+C:\Users\Gerandong\gamedev1\bin\Debug\net5.0\gamedev1.pdb
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.csprojAssemblyReference.cache
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.AssemblyInfoInputs.cache
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.AssemblyInfo.cs
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.csproj.CoreCompileInputs.cache
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.dll
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\ref\gamedev1.dll
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.pdb
+C:\Users\Gerandong\gamedev1\obj\Debug\net5.0\gamedev1.genruntimeconfig.cache
